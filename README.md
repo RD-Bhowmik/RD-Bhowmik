@@ -236,4 +236,4 @@ Database management system project with comprehensive data modeling.
 
 
 
-⭐️ From [RD-Bhowmik](https://github.com/RD-Bhowmik) | Open to collaboration and interesting projects!
+⭐️Open to collaboration and interesting projects!
