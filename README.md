@@ -32,12 +32,17 @@ I'm a passionate developer from Bangladesh specializing in web applications, mac
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Data Science & ML
+### AI/ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### Data Science & Computer Vision
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,7 +54,6 @@ I'm a passionate developer from Bangladesh specializing in web applications, mac
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ---
 
 ## 📌 Featured Projects
@@ -66,6 +70,29 @@ A comprehensive financial management web application for international students 
 - Cloud deployment on Vercel
 
 **Live Demo:** [https://finance-trackerforstudents.vercel.app/sources](https://planning-phi.vercel.app)
+
+---
+
+### 🧬 [Cervical Cancer Detection using Graph Neural Networks](https://dspace.bracu.ac.bd/xmlui/handle/10361/26653) 🌟
+**Published Research** | Advanced Medical AI system for cervical cancer detection from colposcopy images using ensemble Graph Neural Networks.
+
+**Research Title:** *Cervix-Aware Region-Based Ensemble Graph Neural Networks for Cervical Cancer Detection from Colposcopy Images*
+
+**Tech Stack:** PyTorch, PyTorch Geometric, DeepLabV3+, OpenCV, NetworkX  
+**Key Features:**
+- **Multi-Modal Graph Representation**: Converts colposcopy images into rich graph structures using DeepLabV3+ segmentation and SLIC superpixels
+- **Ensemble GNN Architecture**: Combines GAT, GCN, and GIN with GraphMAE2 autoencoder
+- **Medical-Specific Optimizations**: Cervix-aware attention mechanisms and uncertainty quantification for clinical reliability
+- **State-of-the-Art Performance**: >90% cross-validation accuracy with robust evaluation metrics
+- **Clinical Decision Support**: Built-in confidence estimation for medical applications
+
+**Research Impact:**
+- First comprehensive GNN ensemble for cervical cancer detection
+- Advanced graph construction methodology from medical images
+- Uncertainty quantification for medical decision support
+- Complete reproducible research pipeline
+
+**📄 Published Paper:** [View Publication](https://dspace.bracu.ac.bd/xmlui/handle/10361/26653)  
 
 ---
 
@@ -133,23 +160,69 @@ Database management system project with comprehensive data modeling.
 
 ## 📈 GitHub Stats
 
-![RD-Bhowmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RD-Bhowmik&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RD-Bhowmik&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RD-Bhowmik&theme=radical)
 
 ---
 
+## 📊 Contribution Graph
 
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RD-Bhowmik&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🔬 Research & Publications
+
+### Published Research
+- **Cervix-Aware Region-Based Ensemble Graph Neural Networks for Cervical Cancer Detection** (2024/2025)  
+  *Advanced Medical AI using Graph Neural Networks for automated cervical cancer detection*  
+  📄 [Read Publication](https://dspace.bracu.ac.bd/xmlui/handle/10361/26653)
+
+### Research Areas
+- 🧬 **Medical AI**: Deep learning for healthcare and medical image analysis
+- 🕸️ **Graph Neural Networks**: Novel architectures for medical applications
+- 🖼️ **Computer Vision**: Semantic segmentation and image analysis
+- 📊 **Data Science**: Epidemiological analysis and predictive modeling
+- 🤖 **AI & Literature**: Authorship studies and computational creativity
+
+---
+
+## 💼 Professional Experience
+
+| Role | Focus Areas | Technologies |
+|------|-------------|--------------|
+| **AI Researcher** | Medical AI, Graph Neural Networks | PyTorch, PyTorch Geometric, OpenCV |
+| **Full-Stack Developer** | Web applications, API development | Python, Flask, FastAPI, React, PostgreSQL |
+| **Data Scientist** | Machine learning, statistical analysis | Pandas, Scikit-learn, TensorFlow, Jupyter |
+| **Digital Marketing Professional** | Campaign management, social media | Facebook Ads, Google Ads, Analytics |
+| **E-commerce Operations** | Business operations, order management | WhatsApp Business, CRM systems |
+
+---
 
 ## 🎯 Current Focus
 
-- Building scalable **FastAPI** applications
-- Exploring **machine learning** and **AI** technologies
-- Developing **React** frontend applications
-- Contributing to **open-source** projects
-- Researching **data science** methodologies
+- 🧬 Conducting research in **Graph Neural Networks** for medical imaging
+- 🚀 Building scalable **FastAPI** applications with PostgreSQL
+- 🤖 Exploring advanced **machine learning** and **AI** technologies
+- 🎨 Developing **React** frontend applications with modern UI/UX
+- 📚 Publishing research in **Medical AI** and **data science**
+- 🌟 Contributing to **open-source** projects
+- 💼 Managing e-commerce operations and digital marketing campaigns
+
+---
+
+**💬 Open to:**
+- Research collaborations in Medical AI and Graph Neural Networks
+- Full-stack development opportunities
+- Data science and ML projects
+- Open-source contributions
+- Academic research partnerships
+- Technical consulting
 
 ---
 
@@ -162,11 +235,14 @@ Database management system project with comprehensive data modeling.
 
 ## 📝 Recent Activities
 
-- 🔨 Working on financial planning web applications
-- 📊 Analyzing epidemiological data with machine learning
-- 🚀 Building REST APIs with FastAPI and PostgreSQL
+- 🧬 Published research on **Graph Neural Networks for cervical cancer detection**
+- 🔨 Working on financial planning web applications with multi-currency support
+- 📊 Analyzing epidemiological data with machine learning models
+- 🚀 Building REST APIs with FastAPI and PostgreSQL for e-commerce solutions
 - 🎨 Creating responsive UIs with React and Tailwind CSS
-- 📱 Developing e-commerce solutions and marketing campaigns
+- 📱 Developing and managing e-commerce operations and marketing campaigns
+- 🤖 Researching advanced GNN architectures for medical image analysis
+- 🤝 Contributing to open-source projects and community development
 
 ---
 
