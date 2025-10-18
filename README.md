@@ -1,4 +1,19 @@
+<div align="center">
+
 # Hi there, I'm RD Bhowmik 👋
+
+</div>
+
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronodeep-bhowmik-518447219/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronodeep01@gmail.com)
+[![Research](https://img.shields.io/badge/Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://dspace.bracu.ac.bd/xmlui/handle/10361/26653)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RD-Bhowmik)
+
+</div>
 
 ## 🚀 About Me
 
@@ -9,7 +24,17 @@
 - 💡 Passionate about creating tools that solve real-world problems
 
 ---
+## 📝 Recent Activities
 
+- 🧬 Published research on **Graph Neural Networks for cervical cancer detection**
+- 🔨 Working on financial planning web applications with multi-currency support
+- 📊 Analyzing epidemiological data with machine learning models
+- 🚀 Building REST APIs with FastAPI and PostgreSQL for e-commerce solutions
+- 🎨 Creating responsive UIs with React and Tailwind CSS
+- 📱 Developing and managing e-commerce operations and marketing campaigns
+- 🤖 Researching advanced GNN architectures for medical image analysis
+
+---
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -198,17 +223,6 @@ Database management system project with comprehensive data modeling.
 
 ---
 
-## 🎯 Current Focus
-
-- 🧬 Conducting research in **Graph Neural Networks** for medical imaging
-- 🚀 Building scalable **FastAPI** applications with PostgreSQL
-- 🤖 Exploring advanced **machine learning** and **AI** technologies
-- 🎨 Developing **React** frontend applications with modern UI/UX
-- 📚 Publishing research in **Medical AI** and **data science**
-- 🌟 Contributing to **open-source** projects
-- 💼 Managing e-commerce operations and digital marketing campaigns
-
----
 
 **💬 Open to:**
 - Research collaborations in Medical AI and Graph Neural Networks
@@ -220,24 +234,6 @@ Database management system project with comprehensive data modeling.
 
 ---
 
-## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ronodeep-bhowmik-518447219/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronodeep01@gmail.com)
-
----
-
-## 📝 Recent Activities
-
-- 🧬 Published research on **Graph Neural Networks for cervical cancer detection**
-- 🔨 Working on financial planning web applications with multi-currency support
-- 📊 Analyzing epidemiological data with machine learning models
-- 🚀 Building REST APIs with FastAPI and PostgreSQL for e-commerce solutions
-- 🎨 Creating responsive UIs with React and Tailwind CSS
-- 📱 Developing and managing e-commerce operations and marketing campaigns
-- 🤖 Researching advanced GNN architectures for medical image analysis
-- 🤝 Contributing to open-source projects and community development
-
----
 
 ⭐️ From [RD-Bhowmik](https://github.com/RD-Bhowmik) | Open to collaboration and interesting projects!
