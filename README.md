@@ -1,11 +1,5 @@
 # Hi there, I'm RD Bhowmik 👋
 
-### Full-Stack Developer | Data Scientist | Digital Marketing Professional
-
-I'm a passionate developer from Bangladesh specializing in web applications, machine learning, and data-driven solutions. I build scalable systems with Python, React, and modern cloud technologies while bridging the gap between technical development and business operations.
-
----
-
 ## 🚀 About Me
 
 - 🔭 Currently working on **financial planning applications** and **e-commerce solutions**
