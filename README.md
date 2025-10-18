@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm RD Bhowmik 👋
+# Hi there, I'm Ronodeep Bhowmik 👋
 
 </div>
 
