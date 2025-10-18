@@ -54,9 +54,8 @@ Hardware design projects including digital logic circuits, processor design, and
 - 💼 Ready for software engineering and data science roles
 
 ## 📫 Connect With Me
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
+- 📧 Email: [ronodeep01@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/ronodeep-bhowmik-518447219/]
 
 ---
 *"Turning ideas into reality, one commit at a time!"* 🚀
