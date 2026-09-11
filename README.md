@@ -177,23 +177,6 @@ Database management system project with comprehensive data modeling.
 
 ---
 
-## 📈 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RD-Bhowmik&layout=compact&theme=radical)
-
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RD-Bhowmik&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
 
 ## 🔬 Research & Publications
 
